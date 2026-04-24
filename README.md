@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Web Development & Android Development!**
 
-- 📫 How to reach me **developers.usualdev@gmail.com**
+- 📫 How to reach me **dipanshudhiman1850@gmail.com**
 
 - 👨‍💻 I love to attend Tech events/Meetups and make new connections.
 
