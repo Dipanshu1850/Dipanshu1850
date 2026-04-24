@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="[https://www.linkedin.com/in/dipanshu-dhiman-a90953326]" target="blank"><img height="40" align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://www.linkedin.com/in/dipanshu-dhiman-a90953326" target="blank"><img height="40" align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>
 </p>
 
 ### Languages and Tools I Use 👨🏻‍💻
